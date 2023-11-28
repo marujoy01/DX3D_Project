@@ -1,0 +1,13 @@
+﻿  unity_834XGYD433WFR5S8.cpp
+E:\DrakenGard3_Project_Git\Engine\Public\BrainTree\BrainTree.h(441,1): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DrakenGard3_Project_Git\Engine\Public\BrainTree\BrainTree.h(448,1): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DrakenGard3_Project_Git\Engine\Private\Shader.cpp(45,58): warning C4267: '인수': 'size_t'에서 'uint32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DrakenGard3_Project_Git\Engine\Private\VIBuffer_Terrain.cpp(72,42): warning C4267: '초기화 중': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DrakenGard3_Project_Git\Engine\Private\VIBuffer_Terrain.cpp(78,83): warning C4244: '인수': 'size_t'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DrakenGard3_Project_Git\Engine\Private\VIBuffer_Terrain.cpp(78,42): warning C4244: '인수': 'size_t'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\DrakenGard3_Project_Git\Engine\Private\VIBuffer_Terrain.cpp(109,42): warning C4267: '초기화 중': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     ..\Bin\Release\x64\Engine.lib 라이브러리 및 ..\Bin\Release\x64\Engine.exp 개체를 생성하고 있습니다.
+unity_834XGYD433WFR5S8.obj : error LNK2001: 확인할 수 없는 외부 기호 c_dfDIKeyboard
+unity_834XGYD433WFR5S8.obj : error LNK2001: 확인할 수 없는 외부 기호 c_dfDIMouse
+unity_834XGYD433WFR5S8.obj : error LNK2001: 확인할 수 없는 외부 기호 DirectInput8Create
+..\Bin\Release\x64\Engine.dll : fatal error LNK1120: 3개의 확인할 수 없는 외부 참조입니다.
